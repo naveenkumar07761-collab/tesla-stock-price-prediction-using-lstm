@@ -127,4 +127,4 @@ This project is intended for educational purposes only. Stock price predictions 
 
 **Naveen Kumar**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/naveenkumar07761
